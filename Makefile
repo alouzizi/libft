@@ -3,16 +3,8 @@ NAME =	libft.a
 INC = libft.h 
 SRCS =	ft_atoi.c\
 		ft_isalpha.c\
-		ft_isalpha.c\
-		ft_isalpha.c\
-		ft_itoa.c\
-		ft_itoa.c\
 		ft_itoa.c\
 		ft_memmove.c\
-		ft_memmove.c\
-		ft_memmove.c\
-		ft_putnbr_fd.c\
-		ft_putnbr_fd.c\
 		ft_putnbr_fd.c\
 		ft_strdup.c\
 		ft_strlcpy.c\
